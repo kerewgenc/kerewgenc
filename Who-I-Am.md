@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kerewgenc "Kerem Genç"
 - 👀 I’m interested in mobile application and game development.
-- 🌱 I’m currently learning c# & unity
+- 🌱 I’m currently learning dart & Flutter
 - 📫 Contact Mail: k3remg@gmail.com
 
 <!---
